@@ -9,7 +9,7 @@ Caso esteja precisando apenas de um software para extrair as coordenadas de um d
 4. Clicar duas vezes no arquivo ".exe" para executar a operação;
 5. Note que não há indicação de carregamento e dependendo da quantidade de fotos o código pode demorar mais ou menos para finalizar a execução;
 6. Após concluído o processo, será criado um arquivo de nome "coordenadas.csv" com os nomes das fotos e suas respectivas coordenadas;
-7. Se o arquivo não aparecer de imediato, tente clicar com o botão direito em um espaço vazio da pasta e em seguida clicar em atualizar.
+7. Se o arquivo não aparecer de imediato, tente clicar com o botão direito em um espaço vazio da pasta e em seguida clicar em atualizar.<br/><br/>
 Observação: Caso o arquivo ".exe" tenha sido gerado conforme os procedimentos descritos abaixo, o nome do arquivo de coordenadas será conforme configurado no código.
 
 ## Instruções para implementação
@@ -43,3 +43,6 @@ Para gerar um arquivo que rode em qualquer PC com Windows, independente de ter o
 pyinstaller -w -F extrai_coordenadas.py
 ```
 Obs: O trecho "extrai_coordenadas.py" é o nome do arquivo Python que será convertido em ".exe"<br/><br/>
+
+#Autor
+Rafael Rosa de Mattos
