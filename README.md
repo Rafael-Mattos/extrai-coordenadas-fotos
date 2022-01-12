@@ -43,6 +43,6 @@ Para gerar um arquivo que rode em qualquer PC com Windows, independente de ter o
 pyinstaller -w -F extrai_coordenadas.py
 ```
 Obs: O trecho "extrai_coordenadas.py" é o nome do arquivo Python que será convertido em ".exe"<br/><br/>
-
-#Autor
+Para executar o arquivo ".exe", seguir os passos descritos em ["Rodando o arquivo ".exe" no Windows"](#rodando-o-arquivo-exe-no-windows)
+# Autor
 Rafael Rosa de Mattos
