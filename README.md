@@ -49,4 +49,4 @@ Obs: O trecho "extrai_coordenadas.py" é o nome do arquivo Python que será conv
 Para executar o arquivo ".exe", seguir os passos descritos em ["Rodando o arquivo ".exe" no Windows"](#rodando-o-arquivo-exe-no-windows)
 # Autor
 <span>Rafael Rosa de Mattos</span><br/><br/>
-<a href="https://www.linkedin.com/in/rafael-rosa-de-mattos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rafael-rosa-de-mattos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
