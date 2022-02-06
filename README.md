@@ -3,7 +3,10 @@ Código Python para criar um arquivo CSV com as coordenadas extraídas dos metad
 
 ## Rodando o arquivo ".exe" no Windows
 Caso esteja precisando apenas de um software para extrair as coordenadas de um determinado conjunto de fotos sem precisar entender o código, basta:
-1. Baixar o arquivo de extensão ".exe";
+1. Baixar o arquivo de extensão ".exe" no link abaixo;
+```
+https://drive.google.com/drive/folders/1CPFLE7B58r8km3WQ4YVqYKyDholBr6De?usp=sharing
+```
 2. Criar uma pasta e copiar nela todas as fotos das quais se deseja extrair as coordenadas (lembrando que os arquivos das fotos devem conter as informações de coordenadas em seus metadados);
 3. Copiar o arquivo ".exe" baixado na pasta recém criada;
 4. Clicar duas vezes no arquivo ".exe" para executar a operação;
