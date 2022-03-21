@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1CPFLE7B58r8km3WQ4YVqYKyDholBr6De?usp=sha
 2. Criar uma pasta e copiar nela todas as fotos das quais se deseja extrair as coordenadas (lembrando que os arquivos das fotos devem conter as informações de coordenadas em seus metadados);
 3. Copiar o arquivo ".exe" baixado na pasta recém criada;
 4. Clicar duas vezes no arquivo ".exe" para executar a operação;
-5. Note que não há indicação de carregamento e dependendo da quantidade de fotos o código pode demorar mais ou menos para finalizar a execução;
+5. Note que não há indicação de carregamento e dependendo da quantidade de fotos, o código pode demorar um pouco para finalizar a execução;
 6. Após concluído o processo, será criado um arquivo de nome "coordenadas.csv" com os nomes das fotos e suas respectivas coordenadas;
 7. Se o arquivo não aparecer de imediato, tente clicar com o botão direito em um espaço vazio da pasta e em seguida clicar em atualizar.<br/><br/>
 Observação: Caso o arquivo ".exe" tenha sido gerado conforme os procedimentos descritos abaixo, o nome do arquivo de coordenadas será conforme configurado no código.
